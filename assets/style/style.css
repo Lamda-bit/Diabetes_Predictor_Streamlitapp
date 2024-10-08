@@ -1,0 +1,56 @@
+body {
+    background-image: url("images/dp.PNG");
+    background-size: cover;
+    }
+
+.st-emotion-cache-uf99v8 {
+    background-image:none;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.st-emotion-cache-uf99v8.ea3mdgi8 > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5 > div > div > div > div:nth-child(2) > div.st-emotion-cache-1rcd6uk.e1f1d6gn3 > div > div > div > div:nth-child(2) > div > div > p > a{
+    text-decoration: none;
+}
+
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.st-emotion-cache-uf99v8.ea3mdgi8 > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5 > div > div > div > div:nth-child(4) > div:nth-child(1) > div > div > div > div > div > div > div > img{
+    border-radius: 2.5%;
+    height: 20rem;
+    
+}
+
+
+.st-emotion-cache-1v0mbdj  > img{
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    
+  }
+
+
+
+.st-emotion-cache-j5r0tf{
+    background-color: #5e1b0648;
+    border-top-right-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    padding: 5px;
+    padding-left: 10px;
+    border-style: dashed;
+    border-color: rgba(212, 104, 65, 0.658);
+
+}
+
+
+.diagnose {
+    color: #ffffff;
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+  }
+
+.diagnose.positive.diabetes{
+    background-color: #9b631a;
+}
+
+.diagnose.negative.diabetes{
+    background-color:rgb(21, 148, 31) ;
+}
+
